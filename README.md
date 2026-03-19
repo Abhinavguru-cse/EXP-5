@@ -35,11 +35,13 @@ OBSERVATIONS:
 
 
 PRECAUTIONS:
-![image](https://github.com/Abhinavguru-cse/EXP-5/blob/main/Screenshot%202026-03-19%20195404.png?raw=true)
+
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
+
+![image](https://github.com/Abhinavguru-cse/EXP-5/blob/main/Screenshot%202026-03-19%20195404.png?raw=true)
 RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
